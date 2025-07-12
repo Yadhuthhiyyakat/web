@@ -1,0 +1,79 @@
+.box{
+    width: 1862px;
+    height: 70px;
+    background: white;
+}
+.hoval{
+    height: 25px;
+    width: 20px;
+    background-color: purple;
+    border-radius: 50px 50px 0 0;
+    margin-left: 75px;
+    margin-top: 45px; 
+}
+#black{
+    color: black;
+    margin-left: 25px;
+    font-size: 18px;
+
+}
+.dbox{
+    width: 1862px;
+    height: 800px;
+    background: white;
+}
+#para1{
+    margin-left: 70px;
+    margin-top: 25px;
+    font-size: 50px;
+    
+}
+#para2{
+    margin-left: 70px;
+    margin-top: -45px;
+    color: #6b7280;
+}
+#label{
+    margin-left: 70px;
+    width: 1000px;
+    
+}
+#rememberMe{
+   margin-top: 5px;
+   margin-left: 70px;
+}
+#f{
+    color: #6b7280;
+    margin-left: 150px;
+}
+#gray{
+    color: #6b7280;
+}
+.s{
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 70px;
+    background: purple;
+    border: purple;
+    color: white;
+     border-radius: 0.375rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+#para3{
+    color: #6b7280;
+    margin-top: 85px;
+    margin-left: 70px;
+}
+#u{
+   margin-left: -2px;
+}
+.right{
+    background: navy;
+    margin-left: 931px;
+    margin-top: -561px;
+    width: 931px;
+   height: 700px;
+    border-radius: var(--border-radius);
+}
+
